@@ -32,6 +32,7 @@ var config = {
 		  config: {
 			  // See 'Configuration options' for more information.
 			  text: "Hello world!"
+		  }
 		}
 	]
 
