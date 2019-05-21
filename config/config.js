@@ -13,8 +13,9 @@ var config = {
 	"port": 8080,
 	"ipWhitelist": ["127.0.0.1", "::ffff:127.0.0.1", "::1"],
 	"language": "en",
-	"timeFormat": 24,
-	"units": "metric",
+	"timeFormat": 12,
+	"units": "imperial",
+	"zoom": 1.2,
 	"modules": [{
 		"module": "helloworld",
 		"position": "middle_center",
