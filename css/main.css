@@ -218,6 +218,7 @@ sup {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+  font-size: 4em !important;
 }
 
 .region.upper.third {
