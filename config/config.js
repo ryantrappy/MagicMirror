@@ -27,37 +27,12 @@ var config = {
 
 	modules: [
 		{
-			module: "alert",
-		},
-		{
-			module: "updatenotification",
-			position: "top_bar"
-		},
-		{
-			module: "clock",
-			position: "top_left"
-		},
-		{
-			module: "calendar",
-			header: "US Holidays",
-			position: "top_left",
-			config: {
-				calendars: [
-					{
-						symbol: "calendar-check",
-						url: "webcal://www.calendarlabs.com/templates/ical/US-Holidays.ics"
-					}
-				]
-			}
-		},
-    {
 		  module: "helloworld",
 		  position: "middle_center",	// This can be any of the regions.
 		  config: {
 			  // See 'Configuration options' for more information.
 			  text: "Hello world!"
 		}
-	}
 	]
 
 };
