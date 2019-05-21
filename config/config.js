@@ -15,7 +15,7 @@ var config = {
 	"language": "en",
 	"timeFormat": 12,
 	"units": "imperial",
-	"zoom": 1.2,
+	"zoom": 2.2,
 	"modules": [{
 		"module": "helloworld",
 		"position": "middle_center",
