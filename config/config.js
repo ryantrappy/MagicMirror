@@ -19,7 +19,7 @@ var config = {
 		"module": "helloworld",
 		"position": "middle_center",
 		"config": {
-			"text": "Hello world!"
+			"text": "Will you marry me?"
 		}
 	}]
 
